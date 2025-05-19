@@ -14,7 +14,7 @@
 .home {
   position: relative;
   height: min(calv(100% + 220px), 110dvh);
-  background: url('/assets/home.png') no-repeat;
+  background: url('assets/home.png') no-repeat;
   background-size: cover;
   background-position: center top;
   display: flex;
@@ -249,7 +249,7 @@
 /* ======== ABOUT ======= */
 
 .about {
-  background-image: url(/assets/about3.png);
+  background-image: url(assets/about3.png);
   background-position-y: 10%;
   background-size: cover;
   background-repeat: no-repeat;
@@ -267,7 +267,7 @@
   display: flex;
   align-items: center;
   justify-content: center;
-  background-image: url(/assets/space.jpg);
+  background-image: url(assets/space.jpg);
   background-size: cover;
   background-blend-mode: multiply;
   background-color: rgba(6, 12, 75, 0.8);
