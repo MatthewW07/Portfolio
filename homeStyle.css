@@ -439,7 +439,7 @@
 
 /* Journey - Included Education and Experience*/
 
-.about .journey {
+.about .experience {
   position: relative;
   background: rgba(8, 27, 41, 0.2);
   backdrop-filter: blur(10px);
@@ -450,8 +450,7 @@
   padding: min(20px, 4dvh) min(20px, 4dvw);
 }
 
-.about .journey h3 {
-  background: red;
+.about .experience h3 {
   font-size: min(3rem, 10dvw);
   padding: min(20px, 4dvh);
   width: 100%;
@@ -459,9 +458,9 @@
   text-align: center;
 }
 
-.about .journey .journey-box {
+.about .experience .experience-box {
+  padding: 2rem;
   width: 50%;
-  background: red;
   align-items: inline-grid;
 }
 
